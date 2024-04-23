@@ -11,6 +11,7 @@ Grandes Telas: acima de 1201px
 @media screen and (min-width: 320px) and (max-width: 480px) { /*CELULAR*/
     body {
         background-color: aqua;
+        color: red;
     }
 }
 
