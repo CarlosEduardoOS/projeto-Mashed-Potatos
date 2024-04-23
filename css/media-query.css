@@ -9,7 +9,16 @@ Grandes Telas: acima de 1201px
 */
 
 @media screen and (min-width: 300px) and (max-width: 500px) { /*CELULAR (coloquei -20 e +20 só pra ser uma margem de erro*/
-    
+    header {
+        margin: 15px;
+        border-radius: 50%;
+        box-shadow: 0px 0px 10px black;
+        width: 70px;
+    }
+
+    nav {
+        display: none;
+    }
 }
 
 /*

@@ -14,11 +14,11 @@
 
 body {
     background-color: white;
+    height: 10000px;
 }
 
 header {
     background-color: var(--cor02);
-    border: 2px solid black;
 }
 
 header > picture > img {
