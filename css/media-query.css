@@ -14,7 +14,7 @@ Grandes Telas: acima de 1201px
     }
 }
 
-@media screen and (min-width: 481px) and (max-width: 950px) { /*TABLET ou CELULAR DEITADO*/
+@media screen and (min-width: 481px) and (max-width: 1150px) { /*TABLET ou CELULAR DEITADO*/
     body {
         background-color: red;
     }
