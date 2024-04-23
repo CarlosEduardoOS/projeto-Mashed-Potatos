@@ -1,5 +1,30 @@
 @charset "UTF-8";
+
 /*CSS PRINCIPAL*/
+
+:root {
+    --cor01: ;
+    --cor02: #FEAA26;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
-    background-color: lightgreen;
+    background-color: white;
+}
+
+header {
+    background-color: var(--cor02);
+    border: 2px solid black;
+}
+
+header > picture > img {
+    margin: 10px;
+}
+nav {
+    display: inline-block;
+    background-color: blue;
 }
